@@ -1,0 +1,97 @@
+Uganda Food Price Explorer - Final Technical and Data-Quality Audit
+===================================================================
+
+Audit date: 2026-08-03
+
+1. Technical validation
+-----------------------
+Python compilation: PASS
+Automated tests: PASS, 36 tests
+Application modules audited: 7
+Application functions audited: 34
+Functions missing docstrings: 0
+Meaningful application lines: 508
+Minimum meaningful-line requirement: PASS, exceeds 100 lines
+
+Meaningful lines by file:
+- analysis.py: 97
+- data_cleaning.py: 64
+- data_loader.py: 108
+- filters.py: 49
+- main.py: 38
+- summaries.py: 83
+- visualizations.py: 69
+
+2. Cleaned dataset audit
+------------------------
+Cleaned rows: 32,115
+Required-field nulls: 0
+Duplicate rows: 0
+Invalid dates: 0
+Non-finite prices: 0
+Non-positive prices: 0
+Blank market, commodity, or unit labels: 0
+Commodities represented: 38
+Commodities using multiple units: 0
+Result: PASS
+
+3. Question 1 table audit
+-------------------------
+Commodity summary rows: 38
+Market summary rows: 638
+Null cells: 0
+Non-finite numeric cells: 0
+Duplicate commodity-unit groups: 0
+Duplicate market-commodity-unit groups: 0
+Non-positive sample sizes: 0
+Mean-price sorting: descending
+Commodity summaries with fewer than 3 records: 0
+Market summaries with fewer than 3 records: 1
+Smallest market group: Nabilatuk, Cassava flour, KG, n=2
+Result: PASS with disclosed small-sample limitation
+
+4. Question 2 table audit
+-------------------------
+Monthly change rows: 31,320
+Spike rows: 2,759
+Duplicate monthly keys: 0
+Duplicate spike keys: 0
+Invalid month values: 0
+Invalid monthly averages: 0
+Non-positive monthly sample sizes: 0
+Expected first-series nulls: 638
+Previous-average nulls: 638
+Absolute-change nulls: 638
+Percentage-change nulls: 638
+Spikes below the inclusive 25 percent rule: 0
+Monthly groups with fewer than 3 observations: 31,320
+Result: PASS with material small-sample limitation
+
+5. Chart audit
+---------------
+highest_average_prices.png: PASS, 1750 x 1121 pixels
+price_trends.png: PASS, 1908 x 1121 pixels
+Bar chart comparison unit: KG only
+Bar chart sample-size labels: present
+Trend chart commodity and unit context: present
+Trend chart market legend and sample sizes: present
+Chart titles and axis labels: present
+Result: PASS
+
+6. Analytical limitations
+-------------------------
+- Monthly observations are sparse. Every exported commodity-market-unit-month group has fewer than three source observations.
+- Month-over-month changes and spike classifications may therefore be sensitive to individual observations.
+- One market summary has only two records.
+- Record counts are retained in exported tables and displayed in chart labels or legends so users can assess sample size.
+- The 25 percent spike rule is a reproducible analytical threshold, not proof of an economic shock or its cause.
+- Prices are compared only within compatible measurement units.
+
+7. Preservation and completion
+------------------------------
+Raw dataset checksum: PASS
+Read-only audit preservation status: PASS
+Required generated outputs present: PASS
+Unresolved technical defects: 0
+Unresolved data-quality defects: 0
+Final audit result: PASS

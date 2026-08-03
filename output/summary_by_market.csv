@@ -1,0 +1,639 @@
+market,commodity,unit,record_count,mean_price,minimum_price,maximum_price
+Kyaka II (refugee settlement),Fish (dry),KG,50,27255.3,12500.0,41667.0
+Rwamwanja (refugee settlement),Fish (dry),KG,59,25482.830508474577,10886.0,37500.0
+Kiryandongo (refugee settlement),Fish (dry),KG,61,25324.67213114754,12262.0,42500.0
+Rhino Camp (refugee settlement),Fish (dry),KG,62,21611.532258064515,11273.0,40000.0
+Nakivale (refugee settlement),Fish (dry),KG,62,20964.0,10000.0,32500.0
+Kyangwali (refugee settlement),Fish (dry),KG,65,20132.923076923078,11628.0,34615.0
+Palabek (refugee settlement),Fish (dry),KG,43,19620.093023255813,8194.0,40701.0
+Adjumani (refugee settlement),Fish (dry),KG,30,19393.533333333333,10167.0,33194.0
+Imvepi (refugee settlement),Fish (dry),KG,45,19026.266666666666,10000.0,33333.0
+Oruchinga (refugee settlement),Fish (dry),KG,63,18678.26984126984,5000.0,33333.0
+Lobule (refugee settlement),Fish (dry),KG,59,17564.966101694914,5625.0,33333.0
+Bidibidi (refugee settlement),Fish (dry),KG,64,17262.5,11583.0,30769.0
+Palorinya (refugee settlement),Fish (dry),KG,62,12909.354838709678,4545.0,30000.0
+Oruchinga (refugee settlement),Hoe,Unit,17,11917.70588235294,10000.0,18000.0
+Imvepi (refugee settlement),Hoe,Unit,22,11683.045454545454,10000.0,15000.0
+Rhino Camp (refugee settlement),Hoe,Unit,17,11644.86294117647,10000.0,13444.0
+Nakivale (refugee settlement),Hoe,Unit,17,11591.29411764706,9667.0,19000.0
+Bidibidi (refugee settlement),Hoe,Unit,21,11549.619047619048,10000.0,12800.0
+Rwamwanja (refugee settlement),Hoe,Unit,24,11385.166666666666,9000.0,12000.0
+Kyaka II (refugee settlement),Hoe,Unit,24,11327.11125,10000.0,14000.0
+Kyangwali (refugee settlement),Hoe,Unit,24,11259.75,5000.0,13000.0
+Kiryandongo (refugee settlement),Hoe,Unit,17,11208.274705882353,7916.67,15000.0
+Palabek (refugee settlement),Hoe,Unit,16,11101.3125,10000.0,12875.0
+Adjumani (refugee settlement),Hoe,Unit,20,10568.3,9750.0,12700.0
+Lobule (refugee settlement),Hoe,Unit,20,10361.15,8000.0,12000.0
+Palorinya (refugee settlement),Hoe,Unit,22,10275.74181818182,9000.0,15000.0
+Rwamwanja (refugee settlement),Pole,Unit,23,9495.739130434782,7000.0,13333.0
+Kyangwali (refugee settlement),Oil (vegetable),L,67,8953.01,6444.0,12222.0
+Kyaka II (refugee settlement),Pole,Unit,20,8895.0835,7000.0,10400.0
+Imvepi (refugee settlement),Jerrycan (20L),Unit,23,8853.608695652174,6000.0,12000.0
+Rwamwanja (refugee settlement),Oil (vegetable),L,67,8813.820895522387,6000.0,11800.0
+Palabek (refugee settlement),Pole,Unit,16,8792.5625,4750.0,13333.0
+Fort Portal,Oil (vegetable),L,48,8734.25,7000.0,11250.0
+Palabek (refugee settlement),Jerrycan (20L),Unit,21,8652.666666666666,7000.0,10000.0
+Masaka,Oil (vegetable),L,41,8604.869999999999,6600.0,12000.0
+Oruchinga (refugee settlement),Panga,Unit,17,8573.529411764706,7000.0,15000.0
+Imvepi (refugee settlement),Panga,Unit,21,8437.047619047618,5000.0,10000.0
+Palabek (refugee settlement),Oil (vegetable),L,65,8409.190923076923,6000.0,10714.0
+Kasese,Oil (vegetable),L,39,8384.128205128205,7000.0,10800.0
+Mukono,Oil (vegetable),L,37,8372.432432432432,7125.0,11000.0
+Kiryandongo (refugee settlement),Jerrycan (20L),Unit,23,8260.08695652174,6000.0,12000.0
+Tororo,Oil (vegetable),L,44,8253.318181818182,7000.0,10500.0
+Oruchinga (refugee settlement),Oil (vegetable),L,67,8188.268656716418,5833.0,12500.0
+Hoima,Oil (vegetable),L,52,8167.557692307692,7000.0,10000.0
+Kyaka II (refugee settlement),Oil (vegetable),L,67,8157.0347761194025,6400.0,11563.0
+Nakivale (refugee settlement),Oil (vegetable),L,67,8112.44776119403,5917.0,12600.0
+Jinja,Oil (vegetable),L,50,8045.06,7000.0,10333.0
+Adjumani (refugee settlement),Oil (vegetable),L,67,7973.854179104477,6775.0,10769.0
+Rhino Camp (refugee settlement),Panga,Unit,17,7964.764705882353,7333.0,9333.0
+Soroti,Oil (vegetable),L,49,7959.463469387755,5200.0,10000.0
+Bidibidi (refugee settlement),Panga,Unit,21,7905.301428571428,7200.0,9250.0
+Adjumani (refugee settlement),Panga,Unit,11,7889.636363636364,6000.0,10000.0
+Kyangwali (refugee settlement),Jerrycan (20L),Unit,12,7879.805833333333,6000.0,10000.0
+Karenga,Oil (vegetable),L,40,7874.319,7000.0,10000.0
+Palabek (refugee settlement),Panga,Unit,16,7864.6875,5000.0,9333.0
+Kyangwali (refugee settlement),Pole,Unit,23,7815.217391304348,5250.0,10000.0
+Kiryandongo (refugee settlement),Oil (vegetable),L,41,7774.048780487805,5667.0,10667.0
+Nakivale (refugee settlement),Panga,Unit,17,7756.176470588235,7000.0,12500.0
+Rwamwanja (refugee settlement),Jerrycan (20L),Unit,24,7752.541666666667,6000.0,11000.0
+Kiryandongo (refugee settlement),Panga,Unit,17,7735.313529411764,6000.0,11333.0
+Oruchinga (refugee settlement),Jerrycan (20L),Unit,15,7677.733333333334,6000.0,10000.0
+Oruchinga (refugee settlement),Pole,Unit,16,7671.875,6000.0,10000.0
+Owino,Oil (vegetable),L,121,7662.30305785124,4967.0,12750.0
+Palorinya (refugee settlement),Jerrycan (20L),Unit,23,7635.796956521738,5500.0,10667.0
+Adjumani (refugee settlement),Nails,KG,20,7623.416499999999,5500.0,8667.0
+Kyangwali (refugee settlement),Panga,Unit,24,7621.860833333333,5000.0,10000.0
+Bidibidi (refugee settlement),Jerrycan (20L),Unit,23,7620.652173913043,6375.0,9333.0
+Lobule (refugee settlement),Oil (vegetable),L,67,7610.507462686567,5880.0,10333.0
+Wakiso,Oil (vegetable),L,37,7608.5675675675675,6250.0,10000.0
+Mbarara,Oil (vegetable),L,127,7594.994724409448,5000.0,10429.0
+Imvepi (refugee settlement),Nails,KG,17,7594.470588235294,6000.0,10000.0
+Lobule (refugee settlement),Panga,Unit,20,7581.1,6000.0,10000.0
+Palorinya (refugee settlement),Panga,Unit,22,7542.409090909091,6500.0,8333.0
+Kaabong,Oil (vegetable),L,82,7526.134146341464,5000.0,10500.0
+Palorinya (refugee settlement),Nails,KG,19,7518.123157894736,7000.0,8667.0
+Lobule (refugee settlement),Jerrycan (20L),Unit,24,7506.625,5000.0,9800.0
+Imvepi (refugee settlement),Oil (vegetable),L,67,7503.194029850746,4500.0,10000.0
+Palorinya (refugee settlement),Pole,Unit,17,7444.470588235294,4500.0,12000.0
+Rhino Camp (refugee settlement),Oil (vegetable),L,67,7432.179104477612,5689.0,10000.0
+Kyaka II (refugee settlement),Jerrycan (20L),Unit,24,7430.514166666667,5917.0,9361.0
+Iganga,Oil (vegetable),L,112,7390.967321428571,5100.0,10000.0
+Palorinya (refugee settlement),Oil (vegetable),L,67,7376.223880597015,5778.0,10222.0
+Palabek (refugee settlement),Nails,KG,17,7362.764705882353,5500.0,9333.0
+Mbale,Oil (vegetable),L,74,7357.162297297297,1466.67,11207.0
+Karita,Oil (vegetable),L,63,7354.0,5000.0,11571.0
+Arua,Oil (vegetable),L,19,7332.578947368421,6000.0,10000.0
+Imvepi (refugee settlement),Pole,Unit,20,7331.9,2333.0,10000.0
+Nabilatuk,Oil (vegetable),L,41,7324.951219512195,6000.0,11000.0
+Moroto,Oil (vegetable),L,36,7324.611111111111,6000.0,10600.0
+Masindi,Oil (vegetable),L,51,7314.21568627451,5417.0,10000.0
+Busia,Oil (vegetable),L,45,7289.488888888889,5000.0,10000.0
+Kyaka II (refugee settlement),Nails,KG,22,7272.696818181817,6333.33,8000.0
+Bidibidi (refugee settlement),Oil (vegetable),L,67,7254.497462686568,5000.0,10000.0
+Kyangwali (refugee settlement),Nails,KG,23,7227.173913043478,6475.0,8150.0
+Bidibidi (refugee settlement),Nails,KG,21,7201.619047619048,6000.0,8300.0
+Adjumani (refugee settlement),Jerrycan (20L),Unit,23,7172.753478260869,5286.0,10000.0
+Rwamwanja (refugee settlement),Panga,Unit,24,7164.583333333333,7000.0,8000.0
+Napak,Oil (vegetable),L,39,7162.974358974359,6000.0,10000.0
+Kyaka II (refugee settlement),Panga,Unit,24,7147.958333333333,5500.0,8000.0
+Rhino Camp (refugee settlement),Jerrycan (20L),Unit,19,7122.227894736841,5154.0,8667.0
+Kotido,Oil (vegetable),L,69,7026.931449275363,5000.0,12000.0
+Nakivale (refugee settlement),Nails,KG,17,7026.176470588235,6000.0,8000.0
+Namalu,Oil (vegetable),L,77,6990.286753246753,5000.0,12000.0
+Rwamwanja (refugee settlement),Nails,KG,24,6988.875,6000.0,8000.0
+Nakivale (refugee settlement),Pole,Unit,16,6979.25,5000.0,8667.0
+Nakivale (refugee settlement),Jerrycan (20L),Unit,12,6895.75,5000.0,7833.0
+Rhino Camp (refugee settlement),Nails,KG,17,6877.823529411765,4889.0,8000.0
+Makaratin,Oil (vegetable),L,77,6833.086623376624,5000.0,10200.0
+Oruchinga (refugee settlement),Nails,KG,17,6823.529411764706,6000.0,8000.0
+Adjumani (refugee settlement),Pole,Unit,20,6727.85,4500.0,11500.0
+Lobule (refugee settlement),Nails,KG,8,6725.0,5000.0,7500.0
+Kiryandongo (refugee settlement),Nails,KG,9,6719.111111111111,6000.0,8000.0
+Gulu,Oil (vegetable),L,128,6652.5846875,5000.0,11875.0
+Lira,Oil (vegetable),L,102,6632.091470588235,5000.0,11000.0
+Kiryandongo (refugee settlement),Pole,Unit,16,6597.5,3333.0,8000.0
+Kapchorwa,Oil (vegetable),L,116,6561.327586206897,3524.0,10000.0
+Kyangwali (refugee settlement),Basin,Unit,24,5895.555,4952.0,12500.0
+Kyangwali (refugee settlement),Laundry soap,KG,56,5820.273928571429,2750.0,10666.67
+Lobule (refugee settlement),Pole,Unit,19,5775.1578947368425,2000.0,10000.0
+Palabek (refugee settlement),Basin,Unit,21,5761.523809523809,5000.0,7250.0
+Nakivale (refugee settlement),Basin,Unit,22,5672.454545454545,4667.0,7250.0
+Bidibidi (refugee settlement),Pole,Unit,21,5538.714285714285,4333.0,10000.0
+Rwamwanja (refugee settlement),Laundry soap,KG,56,5503.289642857142,3000.0,8000.0
+Rhino Camp (refugee settlement),Basin,Unit,17,5384.980588235294,5000.0,6000.0
+Imvepi (refugee settlement),Basin,Unit,22,5382.545,5000.0,6000.0
+Adjumani (refugee settlement),Basin,Unit,20,5378.853,5000.0,8000.0
+Oruchinga (refugee settlement),Basin,Unit,18,5372.722222222223,4333.0,6500.0
+Kyaka II (refugee settlement),Basin,Unit,24,5296.166666666667,4500.0,6833.0
+Palorinya (refugee settlement),Basin,Unit,23,5099.985652173913,5000.0,6000.0
+Bidibidi (refugee settlement),Basin,Unit,21,5090.809523809524,4875.0,6000.0
+Kiryandongo (refugee settlement),Basin,Unit,18,5058.722222222223,4500.0,8000.0
+Rwamwanja (refugee settlement),Basin,Unit,24,5036.444583333333,4375.0,6000.0
+Kyaka II (refugee settlement),Laundry soap,KG,56,5005.366071428572,3000.0,7000.0
+Palabek (refugee settlement),Laundry soap,KG,54,4998.680925925926,2900.0,8000.0
+Adjumani (refugee settlement),Laundry soap,KG,55,4968.885636363637,3000.0,7000.0
+Palorinya (refugee settlement),Millet flour,KG,34,4950.470588235294,2500.0,6250.0
+Rhino Camp (refugee settlement),Pole,Unit,16,4949.125,2000.0,7000.0
+Lobule (refugee settlement),Laundry soap,KG,48,4885.9375,2000.0,7250.0
+Imvepi (refugee settlement),Laundry soap,KG,55,4819.927272727273,2000.0,8000.0
+Lobule (refugee settlement),Basin,Unit,20,4728.35,4000.0,6000.0
+Bidibidi (refugee settlement),Laundry soap,KG,55,4648.145454545454,2728.0,8000.0
+Kiryandongo (refugee settlement),Millet flour,KG,67,4554.955223880597,3000.0,6000.0
+Bidibidi (refugee settlement),Millet flour,KG,62,4550.774193548387,2892.0,5500.0
+Rhino Camp (refugee settlement),Laundry soap,KG,54,4512.347407407407,2000.0,6500.0
+Fort Portal,Beans,KG,48,4463.597291666667,3125.0,6000.0
+Moroto,Millet,KG,3,4461.0,3500.0,4973.0
+Palorinya (refugee settlement),Laundry soap,KG,55,4372.654545454546,2000.0,6000.0
+Imvepi (refugee settlement),Millet flour,KG,67,4283.179104477612,2000.0,6000.0
+Napak,Beans,KG,39,4254.128205128205,3600.0,5267.0
+Adjumani (refugee settlement),Millet flour,KG,65,4198.215384615384,2786.0,6800.0
+Masaka,Millet,KG,45,4143.414888888889,3740.0,5000.0
+Soroti,Beans,KG,26,4089.3076923076924,2800.0,5400.0
+Mukono,Beans,KG,37,4088.837837837838,2900.0,5980.0
+Moroto,Beans,KG,47,4058.404255319149,3000.0,5400.0
+Rwamwanja (refugee settlement),Millet flour,KG,67,4040.0149253731342,3476.0,4933.0
+Wakiso,Beans,KG,37,4039.054054054054,2625.0,4900.0
+Nakivale (refugee settlement),Laundry soap,KG,54,4033.8333333333335,2500.0,6500.0
+Oruchinga (refugee settlement),Laundry soap,KG,54,4027.185185185185,2500.0,6509.0
+Masaka,Beans,KG,49,4000.1428571428573,2833.33,6075.0
+Napak,Millet,KG,4,4000.0,4000.0,4000.0
+Kyaka II (refugee settlement),Millet flour,KG,67,3983.1641791044776,3107.0,4923.0
+Rhino Camp (refugee settlement),Millet flour,KG,49,3939.265306122449,2944.0,5441.0
+Kiryandongo (refugee settlement),Laundry soap,KG,49,3886.48306122449,2000.0,6000.0
+Kasese,Beans,KG,51,3880.764705882353,2100.0,5375.0
+Oruchinga (refugee settlement),Millet flour,KG,67,3878.2338805970153,2733.0,4875.0
+Lobule (refugee settlement),Millet flour,KG,67,3870.6417910447763,3000.0,5000.0
+Nakivale (refugee settlement),Millet flour,KG,67,3840.626865671642,2825.0,5000.0
+Kaabong,Beans,KG,81,3832.4156790123457,2550.0,5750.0
+Adjumani (refugee settlement),Beans,KG,67,3825.5923880597015,2430.0,6219.0
+Bidibidi (refugee settlement),Beans,KG,67,3823.049701492537,2500.0,5038.0
+Palabek (refugee settlement),Beans,KG,37,3820.4662162162163,2387.0,5000.0
+Kyangwali (refugee settlement),Millet flour,KG,60,3803.2166666666667,2433.0,5500.0
+Mukono,Sorghum,KG,25,3789.16,2533.0,4058.0
+Hoima,Beans,KG,52,3740.480769230769,1914.0,5000.0
+Wakiso,Millet,KG,37,3690.027027027027,2825.0,4184.0
+Tororo,Beans,KG,44,3677.2727272727275,2650.0,5000.0
+Mukono,Millet,KG,37,3644.0,3000.0,4600.0
+Karita,Beans,KG,63,3639.15873015873,2000.0,4833.0
+Hoima,Millet,KG,49,3631.8367346938776,2400.0,6000.0
+Masindi,Beans,KG,51,3629.4117647058824,2000.0,5000.0
+Karenga,Beans,KG,40,3629.31,3000.0,4143.0
+Masaka,Sorghum,KG,9,3611.0,499.0,4000.0
+Arua,Beans,KG,30,3589.266666666667,2800.0,4459.0
+Lobule (refugee settlement),Beans,KG,67,3575.5373134328356,2077.0,5500.0
+Mbale,Beans,KG,64,3573.90640625,2050.0,5500.0
+Palorinya (refugee settlement),Beans,KG,67,3563.626865671642,2017.0,5333.0
+Gulu,Beans,KG,158,3553.579367088608,1594.0,6678.0
+Kiryandongo (refugee settlement),Beans,KG,67,3547.582089552239,2000.0,5500.0
+Imvepi (refugee settlement),Beans,KG,52,3514.6303846153846,1300.0,4988.0
+Nabilatuk,Beans,KG,41,3483.512195121951,2325.0,4900.0
+Fort Portal,Millet,KG,44,3456.090909090909,3000.0,5500.0
+Rhino Camp (refugee settlement),Beans,KG,60,3452.4721666666665,1522.0,5375.0
+Kotido,Beans,KG,71,3452.1287323943666,2450.0,4850.0
+Tororo,Millet,KG,37,3424.972972972973,2336.0,6000.0
+Palabek (refugee settlement),Millet flour,KG,47,3402.5814893617016,1900.0,5333.0
+Makaratin,Beans,KG,77,3392.6753246753246,2333.0,4650.0
+Jinja,Beans,KG,58,3322.755172413793,1442.0,5375.0
+Karenga,Maize flour,KG,40,3321.6,2000.0,4000.0
+Busia,Beans,KG,41,3293.7804878048782,2050.0,4450.0
+Adjumani (refugee settlement),Underwear,Unit,52,3277.076923076923,1875.0,5000.0
+Lobule (refugee settlement),Jerrycan (5L),Unit,24,3212.33375,1250.0,5500.0
+Kasese,Millet,KG,48,3198.6875,2370.0,4750.0
+Masindi,Millet,KG,44,3197.318181818182,2000.0,5000.0
+Fort Portal,Maize flour,KG,48,3179.3125,2150.0,4500.0
+Rwamwanja (refugee settlement),Jerrycan (5L),Unit,22,3108.0454545454545,2000.0,5000.0
+Rwamwanja (refugee settlement),Underwear,Unit,56,3098.8033928571426,1500.0,5000.0
+Kyaka II (refugee settlement),Maize flour,KG,55,3091.7454545454543,1890.0,4000.0
+Kyangwali (refugee settlement),Sanitary pads,Packet,55,3070.060727272727,2333.0,3833.0
+Kyangwali (refugee settlement),Underwear,Unit,55,3062.6483636363637,2000.0,4333.0
+Fort Portal,Sorghum,KG,44,3037.068181818182,1800.0,4000.0
+Mbarara,Beans,KG,168,3029.3255952380955,1515.0,5500.0
+Rwamwanja (refugee settlement),Maize flour,KG,67,3001.4670149253734,1900.0,4625.0
+Rwamwanja (refugee settlement),Sanitary pads,Packet,56,2996.5714285714284,2500.0,3500.0
+Kyaka II (refugee settlement),Sanitary pads,Packet,56,2969.8801785714286,2500.0,3500.0
+Oruchinga (refugee settlement),Underwear,Unit,33,2960.4039393939393,2000.0,4000.0
+Nakivale (refugee settlement),Underwear,Unit,51,2953.372549019608,2167.0,4000.0
+Palabek (refugee settlement),Maize flour,KG,60,2952.4166666666665,1975.0,4286.0
+Mbale,Millet,KG,61,2940.3768852459016,1425.0,5000.0
+Palabek (refugee settlement),Sanitary pads,Packet,54,2935.1112962962966,1500.0,3650.0
+Kyaka II (refugee settlement),Underwear,Unit,54,2933.808703703704,2400.0,3542.0
+Namalu,Beans,KG,77,2919.698961038961,2000.0,4850.0
+Gulu,Cassava flour,KG,173,2919.67225433526,1300.0,6000.0
+Arua,Maize flour,KG,30,2916.2,1500.0,4000.0
+Rhino Camp (refugee settlement),Maize flour,KG,67,2908.8358208955224,1958.0,3556.0
+Lobule (refugee settlement),Maize flour,KG,67,2881.865671641791,1960.0,4000.0
+Iganga,Beans,KG,155,2881.376451612903,1560.0,5750.0
+Nakivale (refugee settlement),Sanitary pads,Packet,31,2879.9032258064517,2400.0,3250.0
+Kyangwali (refugee settlement),Maize flour,KG,67,2877.6219402985075,1687.0,4000.0
+Mukono,Maize flour,KG,37,2868.162162162162,2000.0,4000.0
+Kyaka II (refugee settlement),Jerrycan (5L),Unit,22,2867.7722727272726,1750.0,3975.0
+Kyangwali (refugee settlement),Jerrycan (5L),Unit,24,2865.2920833333333,1666.67,4200.0
+Hoima,Maize flour,KG,52,2842.160192307692,1671.0,4000.0
+Kiryandongo (refugee settlement),Sanitary pads,Packet,54,2838.5801851851847,2262.0,3500.0
+Arua,Millet,KG,26,2812.3076923076924,800.0,4750.0
+Nakivale (refugee settlement),Jerrycan (5L),Unit,22,2800.045,1500.0,8000.0
+Imvepi (refugee settlement),Maize flour,KG,30,2794.8333333333335,1667.0,4000.0
+Nabilatuk,Maize flour,KG,41,2773.0,2000.0,4000.0
+Adjumani (refugee settlement),Batteries,Pair,19,2767.8247368421053,1827.0,9000.0
+Kyangwali (refugee settlement),Beans,KG,67,2756.8358208955224,1111.0,4433.0
+Adjumani (refugee settlement),Sanitary pads,Packet,55,2751.2545454545457,1500.0,3333.0
+Oruchinga (refugee settlement),Sanitary pads,Packet,42,2748.222142857143,2433.33,3500.0
+Masaka,Maize flour,KG,49,2743.183673469388,1850.0,3600.0
+Oruchinga (refugee settlement),Jerrycan (5L),Unit,22,2741.4995454545456,2000.0,3563.0
+Palabek (refugee settlement),Underwear,Unit,54,2732.1111111111113,2000.0,3500.0
+Kapchorwa,Beans,KG,71,2718.521126760563,800.0,5000.0
+Karenga,Millet,KG,32,2710.9359375,2300.0,4000.0
+Bidibidi (refugee settlement),Sanitary pads,Packet,54,2707.277777777778,1000.0,4125.0
+Kiryandongo (refugee settlement),Underwear,Unit,54,2696.9444444444443,1000.0,7000.0
+Imvepi (refugee settlement),Jerrycan (5L),Unit,23,2671.6521739130435,1667.0,4375.0
+Wakiso,Maize flour,KG,26,2657.474230769231,1850.0,3725.0
+Masindi,Cassava flour,KG,43,2654.720930232558,1250.0,4000.0
+Palabek (refugee settlement),Jerrycan (5L),Unit,21,2653.3338095238096,1167.0,4667.0
+Adjumani (refugee settlement),Maize flour,KG,30,2612.9333333333334,1736.0,4000.0
+Mbarara,Millet,KG,154,2610.837987012987,1471.0,4750.0
+Karita,Millet,KG,15,2608.233333333333,1500.0,5000.0
+Bidibidi (refugee settlement),Maize flour,KG,67,2602.597014925373,1700.0,3664.0
+Imvepi (refugee settlement),Underwear,Unit,55,2581.4727272727273,1183.0,4000.0
+Kaabong,Millet,KG,62,2576.064516129032,1300.0,5200.0
+Imvepi (refugee settlement),Sanitary pads,Packet,55,2556.9092727272728,1000.0,4000.0
+Kasese,Maize flour,KG,51,2553.6470588235293,1622.0,3500.0
+Busia,Maize flour,KG,45,2538.059333333333,1850.0,3800.0
+Kiryandongo (refugee settlement),Maize flour,KG,67,2537.865671641791,1500.0,3592.0
+Hoima,Sorghum,KG,49,2531.6326530612246,1000.0,4000.0
+Moroto,Maize flour,KG,47,2512.68085106383,1425.0,4000.0
+Bidibidi (refugee settlement),Leafy vegetables,KG,62,2508.6612903225805,638.0,4000.0
+Masindi,Maize flour,KG,51,2508.4313725490197,1467.0,4000.0
+Busia,Millet,KG,45,2506.3704444444443,1900.0,4688.0
+Owino,Millet,KG,152,2502.6733552631576,1000.0,4707.0
+Kiryandongo (refugee settlement),Leafy vegetables,KG,61,2490.1311475409834,1000.0,7421.0
+Palorinya (refugee settlement),Leafy vegetables,KG,63,2483.4761904761904,358.0,26111.0
+Lobule (refugee settlement),Sanitary pads,Packet,54,2478.8888888888887,1250.0,3500.0
+Kaabong,Maize flour,KG,84,2475.5991666666664,1500.0,3850.0
+Palorinya (refugee settlement),Maize flour,KG,67,2466.1194029850744,1375.0,4000.0
+Nakivale (refugee settlement),Serving spoon,Unit,17,2465.5688235294115,1916.67,5000.0
+Napak,Maize flour,KG,39,2457.358974358974,1800.0,3600.0
+Rhino Camp (refugee settlement),Sanitary pads,Packet,49,2451.3469387755104,1000.0,3279.0
+Owino,Rice,KG,195,2447.858256410256,824.04,3939.15
+Rwamwanja (refugee settlement),Batteries,Pair,24,2434.0416666666665,2000.0,2500.0
+Bidibidi (refugee settlement),Serving spoon,Unit,23,2420.1739130434785,2000.0,2950.0
+Gulu,Millet,KG,157,2410.2547770700635,954.0,6000.0
+Lobule (refugee settlement),Underwear,Unit,54,2400.3888888888887,1200.0,4000.0
+Rwamwanja (refugee settlement),Serving spoon,Unit,24,2396.5416666666665,2000.0,3000.0
+Jinja,Millet,KG,92,2384.6858695652177,1148.0,4375.0
+Palorinya (refugee settlement),Sanitary pads,Packet,54,2372.314814814815,1375.0,3250.0
+Karita,Maize flour,KG,63,2368.5714285714284,1900.0,3125.0
+Mbarara,Sorghum,KG,157,2368.3212101910826,1288.0,4000.0
+Kyaka II (refugee settlement),Beans,KG,66,2364.8534848484846,1284.0,4667.0
+Kiryandongo (refugee settlement),Jerrycan (5L),Unit,23,2358.7395652173914,1000.0,3889.0
+Owino,Beans,KG,372,2356.130537634409,922.69,6250.0
+Kyaka II (refugee settlement),Batteries,Pair,24,2352.4166666666665,1000.0,3333.0
+Nakivale (refugee settlement),Beans,KG,67,2346.1144776119404,1100.0,4000.0
+Palorinya (refugee settlement),Jerrycan (5L),Unit,23,2343.1160869565215,1000.0,5000.0
+Soroti,Millet,KG,47,2334.1853191489363,1050.0,4850.0
+Namalu,Maize flour,KG,77,2332.8111688311687,1650.0,3625.0
+Lira,Beans,KG,323,2323.9302786377707,143.82,4929.0
+Rwamwanja (refugee settlement),Beans,KG,67,2322.2217910447757,1063.0,4167.0
+Mbarara,Maize flour,KG,132,2315.7753030303033,1043.75,4400.0
+Kaabong,Cassava flour,KG,36,2306.5,1200.0,3000.0
+Adjumani (refugee settlement),Jerrycan (5L),Unit,23,2305.753913043478,1000.0,4000.0
+Tororo,Maize flour,KG,44,2302.431818181818,1580.0,3350.0
+Nakivale (refugee settlement),Maize flour,KG,67,2301.507462686567,1300.0,3500.0
+Karenga,Cassava flour,KG,26,2299.0,1182.0,2688.0
+Kapchorwa,Millet,KG,112,2292.6072321428574,1125.0,4800.0
+Kasese,Sorghum,KG,49,2292.326530612245,1200.0,4000.0
+Bidibidi (refugee settlement),Jerrycan (5L),Unit,23,2277.217391304348,1500.0,3875.0
+Rhino Camp (refugee settlement),Underwear,Unit,49,2275.122448979592,1333.33,3303.0
+Oruchinga (refugee settlement),Maize flour,KG,67,2274.8358208955224,1200.0,3833.0
+Namalu,Millet,KG,4,2264.5825,1800.0,2658.33
+Wakiso,Sorghum,KG,18,2264.0,1500.0,2875.0
+Kyangwali (refugee settlement),Serving spoon,Unit,24,2250.5695833333334,1000.0,3000.0
+Rwamwanja (refugee settlement),Sorghum,KG,59,2225.8474576271187,1417.0,4000.0
+Oruchinga (refugee settlement),Beans,KG,67,2204.8358208955224,668.0,4000.0
+Soroti,Maize flour,KG,49,2201.4022448979595,1425.0,3100.0
+Mukono,Maize (white),KG,22,2194.590909090909,1500.0,3000.0
+Kotido,Maize flour,KG,79,2179.1772151898736,1200.0,3800.0
+Palorinya (refugee settlement),Underwear,Unit,54,2169.4137037037035,1294.0,3333.0
+Rwamwanja (refugee settlement),Leafy vegetables,KG,58,2162.7413793103447,606.0,5000.0
+Mbale,Maize flour,KG,74,2160.157702702703,1225.0,3660.0
+Kyangwali (refugee settlement),Sorghum,KG,67,2156.6716417910447,933.0,4367.0
+Kyaka II (refugee settlement),Serving spoon,Unit,22,2153.666818181818,1000.0,2833.0
+Kyaka II (refugee settlement),Sorghum,KG,67,2152.315671641791,1606.0,3250.0
+Rhino Camp (refugee settlement),Jerrycan (5L),Unit,22,2150.606818181818,1666.0,3000.0
+Makaratin,Maize flour,KG,77,2133.220779220779,1200.0,2960.0
+Lobule (refugee settlement),Serving spoon,Unit,24,2132.6666666666665,1000.0,3800.0
+Oruchinga (refugee settlement),Serving spoon,Unit,15,2124.133333333333,1000.0,3000.0
+Makaratin,Millet,KG,61,2121.655737704918,1000.0,4010.0
+Kyangwali (refugee settlement),Rope,Unit,23,2116.3191304347824,1000.0,3167.0
+Mbale,Sorghum,KG,66,2112.550606060606,850.0,3800.0
+Palabek (refugee settlement),Batteries,Pair,20,2098.1495,1000.0,2500.0
+Kotido,Millet,KG,60,2094.983333333333,1250.0,4125.0
+Gulu,Maize flour,KG,185,2088.4531891891893,800.0,3860.0
+Mukono,Cassava flour,KG,20,2064.8,1200.0,2650.0
+Imvepi (refugee settlement),Rope,Unit,20,2063.65,267.0,8000.0
+Owino,Maize flour,KG,181,2058.5434806629833,762.5,4000.0
+Fort Portal,Cassava flour,KG,27,2057.8518518518517,1400.0,2800.0
+Nakivale (refugee settlement),Rope,Unit,17,2056.176470588235,1000.0,3000.0
+Kyangwali (refugee settlement),Batteries,Pair,23,2054.9708695652175,1000.0,2667.0
+Owino,Sorghum,KG,158,2047.6296202531644,692.0,4184.0
+Imvepi (refugee settlement),Leafy vegetables,KG,61,2042.8688524590164,722.0,7667.0
+Lobule (refugee settlement),Leafy vegetables,KG,60,2028.2216666666668,588.0,4727.0
+Karita,Cassava flour,KG,10,2019.8,1500.0,2500.0
+Iganga,Millet,KG,147,2005.0122448979591,1150.0,3530.0
+Bidibidi (refugee settlement),Underwear,Unit,54,2004.037037037037,1200.0,4625.0
+Arua,Sorghum,KG,30,1999.6666666666667,800.0,3000.0
+Palabek (refugee settlement),Leafy vegetables,KG,63,1997.920634920635,625.0,4643.0
+Kiryandongo (refugee settlement),Rope,Unit,17,1980.3529411764705,1000.0,4833.0
+Rhino Camp (refugee settlement),Milk (fresh),L,56,1977.6964285714287,1260.0,3000.0
+Oruchinga (refugee settlement),Batteries,Pair,17,1969.1176470588234,1350.0,2500.0
+Kyangwali (refugee settlement),Milk (fresh),L,66,1968.2424242424242,1043.0,3200.0
+Kapchorwa,Maize flour,KG,146,1965.0376712328766,600.0,3425.0
+Wakiso,Cassava flour,KG,23,1958.9565217391305,1400.0,2860.0
+Adjumani (refugee settlement),Milk (fresh),L,32,1958.875,1238.0,2000.0
+Palabek (refugee settlement),Salt,KG,65,1955.4769230769232,1575.0,2002.0
+Lira,Maize flour,KG,181,1954.368232044199,800.0,3375.0
+Adjumani (refugee settlement),Salt,KG,67,1949.1194029850747,1427.0,2400.0
+Bidibidi (refugee settlement),Salt,KG,60,1944.2778333333333,1500.0,2000.0
+Jinja,Maize flour,KG,111,1944.138108108108,575.0,3500.0
+Wakiso,Maize (white),KG,37,1943.5583783783784,1175.0,2875.0
+Palabek (refugee settlement),Serving spoon,Unit,21,1937.4466666666665,1000.0,2389.0
+Masindi,Sorghum,KG,40,1929.1,1182.0,3333.0
+Tororo,Sorghum,KG,44,1926.5681818181818,1120.0,2500.0
+Kiryandongo (refugee settlement),Sorghum,KG,67,1913.7462686567164,1000.0,2500.0
+Kiryandongo (refugee settlement),Batteries,Pair,17,1908.0588235294117,1000.0,2833.0
+Palorinya (refugee settlement),Salt,KG,67,1908.0398507462687,1733.0,2000.0
+Iganga,Maize flour,KG,153,1906.1809150326796,700.0,3700.0
+Rhino Camp (refugee settlement),Salt,KG,67,1891.3283582089553,1467.0,2134.0
+Imvepi (refugee settlement),Salt,KG,67,1885.374776119403,1400.0,2000.0
+Kyangwali (refugee settlement),Salt,KG,67,1879.7064179104477,1567.0,2384.0
+Hoima,Cassava flour,KG,23,1879.4782608695652,950.0,3000.0
+Imvepi (refugee settlement),Batteries,Pair,21,1876.3333333333333,1200.0,3000.0
+Napak,Cassava flour,KG,21,1864.5238095238096,800.0,2950.0
+Imvepi (refugee settlement),Milk (fresh),L,25,1861.32,1000.0,2500.0
+Kotido,Cassava flour,KG,36,1857.3333333333333,700.0,2500.0
+Kiryandongo (refugee settlement),Serving spoon,Unit,22,1855.6990909090907,1000.0,3167.0
+Lira,Millet,KG,154,1852.9933766233764,850.0,4650.0
+Bidibidi (refugee settlement),Batteries,Pair,20,1851.2,1200.0,2000.0
+Lobule (refugee settlement),Batteries,Pair,20,1848.45,1000.0,3500.0
+Oruchinga (refugee settlement),Sorghum,KG,67,1845.402985074627,940.0,4250.0
+Kyangwali (refugee settlement),Leafy vegetables,KG,65,1844.1538461538462,500.0,5000.0
+Nakivale (refugee settlement),Batteries,Pair,20,1838.9,1000.0,2111.0
+Rhino Camp (refugee settlement),Sorghum,KG,67,1836.392985074627,933.0,3250.0
+Mbarara,Cassava flour,KG,174,1829.010632183908,787.5,2700.0
+Mbale,Cassava flour,KG,33,1823.5657575757575,1067.0,2500.0
+Kiboga,Millet,KG,33,1820.1818181818182,1258.0,2350.0
+Oruchinga (refugee settlement),Rope,Unit,17,1819.2941176470588,1000.0,3000.0
+Palabek (refugee settlement),Milk (fresh),L,34,1806.4411764705883,1000.0,2127.0
+Adjumani (refugee settlement),Leafy vegetables,KG,60,1788.3833333333334,800.0,2958.0
+Lobule (refugee settlement),Milk (fresh),L,58,1778.6206896551723,1000.0,2000.0
+Lobule (refugee settlement),Sorghum,KG,67,1773.8059701492537,1057.0,3000.0
+Rhino Camp (refugee settlement),Serving spoon,Unit,22,1767.6818181818182,1000.0,2545.0
+Rhino Camp (refugee settlement),Maize (white),KG,67,1766.1392537313434,930.0,2864.0
+Palorinya (refugee settlement),Milk (fresh),L,59,1765.0961016949152,1000.0,2146.0
+Nakivale (refugee settlement),Sorghum,KG,67,1754.8358208955224,983.0,2750.0
+Kiboga,Beans,KG,33,1754.0666666666666,1300.0,2450.0
+Moroto,Cassava flour,KG,47,1752.078085106383,800.0,2500.0
+Lobule (refugee settlement),Salt,KG,67,1739.0298507462687,1000.0,2380.0
+Palorinya (refugee settlement),Batteries,Pair,22,1734.8490909090908,1000.0,2000.0
+Kapchorwa,Sorghum,KG,127,1730.4973228346457,700.0,3250.0
+Rhino Camp (refugee settlement),Leafy vegetables,KG,62,1725.5483870967741,500.0,4000.0
+Oruchinga (refugee settlement),Leafy vegetables,KG,63,1724.2857142857142,333.0,3333.0
+Kiboga,Maize flour,KG,45,1720.392,825.0,2400.0
+Kiryandongo (refugee settlement),Milk (fresh),L,57,1714.421052631579,1200.0,2458.0
+Fort Portal,Maize (white),KG,24,1695.125,900.0,2563.0
+Namalu,Cassava flour,KG,13,1693.5384615384614,1500.0,2133.0
+Imvepi (refugee settlement),Sorghum,KG,66,1687.013484848485,868.0,2667.0
+Rhino Camp (refugee settlement),Batteries,Pair,17,1677.8823529411766,1234.0,2000.0
+Nakivale (refugee settlement),Salt,KG,67,1672.5223880597016,1233.0,3278.0
+Kyangwali (refugee settlement),Wooden mingle,Unit,24,1664.8474999999999,1000.0,2500.0
+Bidibidi (refugee settlement),Milk (fresh),L,63,1663.4603174603174,1000.0,2407.0
+Palorinya (refugee settlement),Serving spoon,Unit,23,1650.753043478261,1000.0,2500.0
+Imvepi (refugee settlement),Serving spoon,Unit,23,1648.4347826086957,1250.0,2250.0
+Tororo,Cassava flour,KG,28,1646.345357142857,928.0,2500.0
+Imvepi (refugee settlement),Maize (white),KG,67,1640.197313432836,1000.0,2592.0
+Nakivale (refugee settlement),Milk (fresh),L,59,1615.7627118644068,1000.0,2001.0
+Oruchinga (refugee settlement),Salt,KG,64,1608.203125,1200.0,2000.0
+Adjumani (refugee settlement),Maize (white),KG,67,1600.7680597014926,944.0,2950.0
+Rwamwanja (refugee settlement),Salt,KG,60,1599.5571666666665,1000.0,2467.0
+Oruchinga (refugee settlement),Milk (fresh),L,61,1591.8852459016393,1000.0,2002.0
+Adjumani (refugee settlement),Serving spoon,Unit,21,1583.5895238095236,1000.0,2114.0
+Palorinya (refugee settlement),Sorghum,KG,67,1574.1940298507463,891.0,2833.0
+Napak,Maize (white),KG,39,1562.4871794871794,1040.0,3040.0
+Lira,Cassava flour,KG,275,1550.3121090909092,276.92,3625.0
+Palabek (refugee settlement),Rope,Unit,17,1545.4705882352941,667.0,4000.0
+Kasese,Maize (white),KG,27,1545.2592592592594,1000.0,2200.0
+Kapchorwa,Cassava flour,KG,139,1544.6786330935251,724.0,2500.0
+Bidibidi (refugee settlement),Maize (white),KG,56,1541.0892857142858,900.0,2338.0
+Lobule (refugee settlement),Rope,Unit,19,1537.3157894736842,750.0,3000.0
+Lobule (refugee settlement),Maize (white),KG,67,1531.0597014925372,730.0,2500.0
+Kasese,Cassava flour,KG,50,1524.66,700.0,2740.0
+Palabek (refugee settlement),Maize (white),KG,65,1522.918923076923,960.0,2500.0
+Adjumani (refugee settlement),Sorghum,KG,63,1506.26,1000.0,2500.0
+Mbarara,Maize (white),KG,164,1489.364512195122,400.0,2625.0
+Lobule (refugee settlement),Wooden mingle,Unit,24,1487.1666666666667,500.0,3000.0
+Moroto,Maize (white),KG,47,1482.659574468085,1000.0,2800.0
+Kyaka II (refugee settlement),Salt,KG,67,1478.8507462686566,999.0,2000.0
+Nakivale (refugee settlement),Leafy vegetables,KG,63,1477.984126984127,500.0,3333.0
+Palorinya (refugee settlement),Maize (white),KG,67,1476.358208955224,775.0,2825.0
+Jinja,Sorghum,KG,97,1474.1546391752577,400.0,2440.0
+Hoima,Maize (white),KG,23,1464.3478260869565,750.0,2625.0
+Kyaka II (refugee settlement),Leafy vegetables,KG,62,1459.4516129032259,714.0,2564.0
+Bidibidi (refugee settlement),Sorghum,KG,67,1456.44776119403,967.0,2266.0
+Kyaka II (refugee settlement),Milk (fresh),L,63,1453.169365079365,1035.0,4000.0
+Soroti,Cassava flour,KG,27,1437.9366666666667,983.0,2114.29
+Masaka,Cassava flour,KG,16,1432.25,1220.0,1725.0
+Kiryandongo (refugee settlement),Salt,KG,67,1424.313432835821,1000.0,2000.0
+Iganga,Sorghum,KG,132,1405.2959090909092,602.0,2500.0
+Arua,Maize (white),KG,11,1398.7272727272727,800.0,2186.0
+Karita,Maize (white),KG,63,1391.436507936508,500.0,2500.0
+Owino,Maize (white),KG,162,1389.683209876543,712.0,3000.0
+Makaratin,Cassava flour,KG,59,1377.4293220338984,478.0,2333.0
+Moroto,Sorghum,KG,47,1376.723404255319,867.0,2500.0
+Jinja,Maize (white),KG,97,1356.5190721649485,584.0,2560.0
+Mbale,Maize (white),KG,69,1352.980724637681,600.0,2480.0
+Imvepi (refugee settlement),Wooden mingle,Unit,23,1350.304347826087,500.0,3000.0
+Rwamwanja (refugee settlement),Rope,Unit,21,1346.2380952380952,1000.0,2750.0
+Rwamwanja (refugee settlement),Milk (fresh),L,65,1337.2,1000.0,2000.0
+Jinja,Cassava flour,KG,106,1332.2134905660378,264.0,3000.0
+Imvepi (refugee settlement),Torch,Unit,22,1330.7272727272727,667.0,2500.0
+Nabilatuk,Maize (white),KG,41,1323.219512195122,960.0,2000.0
+Owino,Cassava flour,KG,246,1315.90418699187,416.67,3000.0
+Arua,Cassava flour,KG,30,1304.8666666666666,1000.0,1800.0
+Palabek (refugee settlement),Sorghum,KG,60,1302.475,630.0,2333.0
+Busia,Maize (white),KG,45,1302.3295555555555,800.0,1960.0
+Gulu,Maize (white),KG,170,1300.7510588235293,2.0,2000.0
+Busia,Cassava flour,KG,45,1300.6666666666667,740.0,2500.0
+Kaabong,Maize (white),KG,81,1292.29012345679,606.0,2521.5
+Iganga,Cassava flour,KG,161,1291.2173913043478,400.0,2200.0
+Tororo,Maize (white),KG,22,1289.605909090909,830.0,2150.0
+Kiryandongo (refugee settlement),Charcoal,KG,55,1289.5054545454545,414.81,2460.0
+Nakivale (refugee settlement),Maize (white),KG,67,1281.0597014925372,481.0,2400.0
+Oruchinga (refugee settlement),Maize (white),KG,67,1269.4328358208954,500.0,2500.0
+Napak,Sorghum,KG,39,1267.8974358974358,790.0,1757.0
+Kiryandongo (refugee settlement),Maize (white),KG,67,1264.7313432835822,533.0,2333.0
+Adjumani (refugee settlement),Rope,Unit,22,1260.0,500.0,2167.0
+Soroti,Maize (white),KG,47,1254.8936170212767,412.5,2200.0
+Gulu,Sorghum,KG,168,1253.5809523809523,400.0,3000.0
+Makaratin,Maize (white),KG,58,1242.9741379310344,800.0,2338.0
+Busia,Sorghum,KG,21,1241.6666666666667,775.0,1550.0
+Kaabong,Sorghum,KG,79,1234.5943037974682,430.0,2495.0
+Kiryandongo (refugee settlement),Wooden mingle,Unit,21,1234.452380952381,600.0,2254.0
+Nakivale (refugee settlement),Charcoal,KG,54,1229.0475925925928,625.0,2103.0
+Karenga,Maize (white),KG,40,1226.50625,750.0,2100.0
+Kyaka II (refugee settlement),Maize (white),KG,67,1223.2437313432836,589.0,2100.0
+Masaka,Maize (white),KG,45,1219.7037777777778,638.0,1825.0
+Bidibidi (refugee settlement),Rope,Unit,21,1214.6190476190477,875.0,2000.0
+Rwamwanja (refugee settlement),Wooden mingle,Unit,24,1208.375,1000.0,3146.0
+Rwamwanja (refugee settlement),Maize (white),KG,67,1208.1620895522387,456.0,2200.0
+Oruchinga (refugee settlement),Wooden mingle,Unit,22,1202.1818181818182,1000.0,2115.0
+Kiboga,Cassava flour,KG,27,1192.3703703703704,950.0,1413.0
+Namalu,Maize (white),KG,77,1183.645064935065,600.0,1950.0
+Kyaka II (refugee settlement),Rope,Unit,19,1179.2631578947369,1000.0,2000.0
+Rhino Camp (refugee settlement),Torch,Unit,17,1171.7058823529412,834.0,1833.0
+Oruchinga (refugee settlement),Torch,Unit,21,1169.6666666666667,500.0,2000.0
+Palabek (refugee settlement),Wooden mingle,Unit,21,1169.357142857143,712.5,2000.0
+Adjumani (refugee settlement),Wooden mingle,Unit,23,1163.9421739130435,600.0,2416.67
+Soroti,Sorghum,KG,47,1160.6838297872341,613.0,1700.0
+Kotido,Maize (white),KG,38,1150.9342105263158,650.0,2400.0
+Masindi,Maize (white),KG,51,1149.4313725490197,550.0,2000.0
+Kyaka II (refugee settlement),Wooden mingle,Unit,24,1137.625,1000.0,2219.0
+Karita,Sorghum,KG,21,1134.73,500.0,2750.0
+Oruchinga (refugee settlement),Charcoal,KG,53,1134.693962264151,600.0,2500.0
+Kapchorwa,Maize (white),KG,129,1130.3552713178294,500.0,2325.0
+Nakivale (refugee settlement),Wooden mingle,Unit,21,1129.642857142857,712.5,2233.0
+Kyangwali (refugee settlement),Maize (white),KG,67,1124.6168656716418,456.0,2000.0
+Owino,Plantains,KG,222,1117.2706306306306,206.25,6055.67
+Kyaka II (refugee settlement),Charcoal,KG,55,1106.1072727272729,667.0,2222.0
+Nabilatuk,Sorghum,KG,41,1099.8048780487804,695.0,1700.0
+Rhino Camp (refugee settlement),Rope,Unit,16,1098.125,256.0,3000.0
+Bidibidi (refugee settlement),Torch,Unit,18,1096.3333333333333,625.0,2000.0
+Kyangwali (refugee settlement),Torch,Unit,24,1092.0833333333333,1000.0,2000.0
+Kyaka II (refugee settlement),Mug (plastic),Unit,24,1075.5,538.0,3250.0
+Makaratin,Sorghum,KG,74,1075.2297297297298,527.0,2325.0
+Karenga,Sorghum,KG,40,1066.384,836.36,1763.0
+Palabek (refugee settlement),Plate (plastic),Unit,21,1064.1942857142858,917.0,2000.0
+Nakivale (refugee settlement),Torch,Unit,21,1063.3809523809523,500.0,2000.0
+Oruchinga (refugee settlement),Plate (plastic),Unit,21,1057.1904761904761,817.0,1500.0
+Iganga,Maize (white),KG,154,1056.6740259740259,475.0,2175.0
+Namalu,Sorghum,KG,77,1053.868051948052,667.0,1700.0
+Lira,Plantains,KG,168,1048.1497619047618,570.0,1912.5
+Adjumani (refugee settlement),Mug (plastic),Unit,23,1044.9995652173914,808.33,2000.0
+Kotido,Sorghum,KG,79,1044.0379746835442,550.0,2000.0
+Rwamwanja (refugee settlement),Charcoal,KG,54,1038.3153703703704,558.0,1458.0
+Adjumani (refugee settlement),Plate (plastic),Unit,23,1037.9273913043478,800.0,1833.33
+Palabek (refugee settlement),Mug (plastic),Unit,21,1034.98,739.58,2000.0
+Rwamwanja (refugee settlement),Mug (plastic),Unit,24,1033.5833333333333,667.0,2000.0
+Rhino Camp (refugee settlement),Wooden mingle,Unit,22,1032.9545454545455,600.0,2167.0
+Adjumani (refugee settlement),Torch,Unit,20,1031.885,786.0,1333.0
+Kiryandongo (refugee settlement),Torch,Unit,18,1027.7777777777778,1000.0,1500.0
+Lobule (refugee settlement),Mug (plastic),Unit,24,1018.8329166666667,500.0,2000.0
+Nakivale (refugee settlement),Plate (plastic),Unit,22,1016.0,817.0,1500.0
+Palabek (refugee settlement),Torch,Unit,20,1011.65,1000.0,1167.0
+Lobule (refugee settlement),Torch,Unit,19,1008.8947368421053,667.0,2000.0
+Lobule (refugee settlement),Plate (plastic),Unit,24,1003.3333333333334,500.0,1500.0
+Palorinya (refugee settlement),Plate (plastic),Unit,23,1001.434347826087,833.33,1500.0
+Palorinya (refugee settlement),Rope,Unit,18,992.0,300.0,2333.0
+Imvepi (refugee settlement),Plate (plastic),Unit,22,985.8900000000001,500.0,1500.0
+Kyaka II (refugee settlement),Torch,Unit,24,979.1666666666666,500.0,1000.0
+Rwamwanja (refugee settlement),Torch,Unit,24,976.875,667.0,1000.0
+Bidibidi (refugee settlement),Plate (plastic),Unit,23,974.0,875.0,1000.0
+Kyaka II (refugee settlement),Plate (plastic),Unit,22,973.8636363636364,600.0,1875.0
+Lira,Maize (white),KG,166,971.3781927710843,483.0,2000.0
+Kyangwali (refugee settlement),Plate (plastic),Unit,24,971.18,450.0,1500.0
+Nakivale (refugee settlement),Mug (plastic),Unit,16,965.125,500.0,1375.0
+Kiryandongo (refugee settlement),Plate (plastic),Unit,23,950.304347826087,500.0,1500.0
+Bidibidi (refugee settlement),Mug (plastic),Unit,23,947.2608695652174,750.0,1000.0
+Kabale,Maize,KG,35,947.2594285714287,540.85,1365.58
+Rwamwanja (refugee settlement),Plate (plastic),Unit,23,941.6378260869565,600.0,1500.0
+Rhino Camp (refugee settlement),Plate (plastic),Unit,22,937.3636363636364,500.0,1333.0
+Oruchinga (refugee settlement),Mug (plastic),Unit,18,920.9633333333334,500.0,1200.0
+Palabek (refugee settlement),Charcoal,KG,53,920.6056603773585,312.5,6167.0
+Kyangwali (refugee settlement),Mug (plastic),Unit,24,914.1508333333333,500.0,1500.0
+Lira,Sorghum,KG,163,911.5911656441717,427.5,2000.0
+Nabilatuk,Cassava flour,KG,2,896.0,874.0,918.0
+Imvepi (refugee settlement),Mug (plastic),Unit,23,894.985652173913,500.0,2500.0
+Lobule (refugee settlement),Charcoal,KG,53,894.5971698113208,320.0,2000.0
+Kiryandongo (refugee settlement),Mug (plastic),Unit,22,877.5713636363636,500.0,2000.0
+Kyangwali (refugee settlement),Charcoal,KG,46,868.5715217391305,500.0,2222.0
+Bidibidi (refugee settlement),Exercise Book (48 pages),Unit,20,866.05,500.0,1625.0
+Bidibidi (refugee settlement),Wooden mingle,Unit,23,859.5652173913044,425.0,3500.0
+Palorinya (refugee settlement),Torch,Unit,22,854.1363636363636,500.0,1000.0
+Kiryandongo (refugee settlement),Cassava (fresh),KG,61,830.9016393442623,357.0,1538.0
+Palorinya (refugee settlement),Mug (plastic),Unit,23,826.7547826086957,500.0,1000.0
+Masindi,Maize,KG,35,826.3911428571428,509.69,1199.21
+Kiboga,Sorghum,KG,33,820.8787878787879,667.0,1300.0
+Oruchinga (refugee settlement),Cassava (fresh),KG,63,799.7460317460317,286.0,2500.0
+Imvepi (refugee settlement),Charcoal,KG,33,783.4818181818182,286.0,1569.0
+Palorinya (refugee settlement),Wooden mingle,Unit,23,781.1739130434783,500.0,1750.0
+Rhino Camp (refugee settlement),Mug (plastic),Unit,22,774.5450000000001,500.0,1138.0
+Owino,Maize,KG,289,773.551937716263,203.75,1654.86
+Nakivale (refugee settlement),Cassava (fresh),KG,62,770.016129032258,278.0,2000.0
+Lira,Maize,KG,230,747.248304347826,247.76,1593.22
+Busia,Maize,KG,134,728.6289552238806,255.54,1675.34
+Palorinya (refugee settlement),Charcoal,KG,52,722.3086538461539,424.95,1552.0
+Lobule (refugee settlement),Cassava (fresh),KG,60,718.9016666666666,300.0,3333.0
+Lobule (refugee settlement),Exercise Book (48 pages),Unit,19,712.9473684210526,350.0,1000.0
+Bidibidi (refugee settlement),Charcoal,KG,40,703.5835,290.0,1569.0
+Kyangwali (refugee settlement),Cassava (fresh),KG,65,699.4153846153846,357.0,1364.0
+Adjumani (refugee settlement),Charcoal,KG,55,699.1414545454545,384.05,1287.0
+Rhino Camp (refugee settlement),Charcoal,KG,24,695.0212499999999,349.0,1264.0
+Nakivale (refugee settlement),Exercise Book (48 pages),Unit,21,691.6666666666666,475.0,1200.0
+Kiboga,Maize (white),KG,33,675.6636363636364,423.0,1300.0
+Bidibidi (refugee settlement),Cassava (fresh),KG,64,662.0890625,299.0,1429.0
+Palabek (refugee settlement),Cassava (fresh),KG,55,661.1878181818182,100.0,1584.0
+Imvepi (refugee settlement),Cassava (fresh),KG,44,656.3636363636364,292.0,1389.0
+Rwamwanja (refugee settlement),Cassava (fresh),KG,62,649.0774193548388,319.0,1080.0
+Imvepi (refugee settlement),Pen,Unit,22,632.7272727272727,500.0,1000.0
+Oruchinga (refugee settlement),Exercise Book (48 pages),Unit,18,623.3888888888889,500.0,969.0
+Oruchinga (refugee settlement),Pen,Unit,19,621.5436842105263,500.0,700.0
+Bidibidi (refugee settlement),Pen,Unit,21,617.9047619047619,500.0,833.0
+Palabek (refugee settlement),Exercise Book (48 pages),Unit,20,608.2835,450.0,1000.0
+Adjumani (refugee settlement),Cassava (fresh),KG,32,606.5,402.0,861.0
+Nakivale (refugee settlement),Pen,Unit,22,590.8636363636364,500.0,1000.0
+Adjumani (refugee settlement),Pen,Unit,23,581.4347826086956,500.0,833.0
+Kyaka II (refugee settlement),Pen,Unit,24,580.4029166666667,500.0,1000.0
+Kiryandongo (refugee settlement),Exercise Book (48 pages),Unit,18,577.1666666666666,500.0,1200.0
+Palabek (refugee settlement),Pen,Unit,20,575.45,500.0,900.0
+Lobule (refugee settlement),Pen,Unit,23,574.0,500.0,700.0
+Palorinya (refugee settlement),Cassava (fresh),KG,64,570.334375,224.0,1800.0
+Rhino Camp (refugee settlement),Exercise Book (48 pages),Unit,17,570.1764705882352,475.0,750.0
+Kyangwali (refugee settlement),Pen,Unit,24,567.23625,467.0,1000.0
+Rhino Camp (refugee settlement),Pen,Unit,17,564.1176470588235,500.0,633.0
+Kyaka II (refugee settlement),Exercise Book (48 pages),Unit,24,562.5,500.0,1000.0
+Rwamwanja (refugee settlement),Pen,Unit,24,554.4583333333334,500.0,650.0
+Imvepi (refugee settlement),Exercise Book (48 pages),Unit,21,544.7619047619048,450.0,1000.0
+Adjumani (refugee settlement),Exercise Book (48 pages),Unit,20,544.325,366.67,1000.0
+Palorinya (refugee settlement),Pen,Unit,22,529.7590909090909,500.0,600.0
+Kyaka II (refugee settlement),Cassava (fresh),KG,63,528.9063492063492,289.0,938.0
+Rhino Camp (refugee settlement),Cassava (fresh),KG,61,525.7622950819672,186.0,1145.0
+Kiryandongo (refugee settlement),Pen,Unit,18,514.5555555555555,500.0,600.0
+Rwamwanja (refugee settlement),Exercise Book (48 pages),Unit,24,512.9583333333334,400.0,911.0
+Kyangwali (refugee settlement),Exercise Book (48 pages),Unit,24,511.2920833333333,333.33,1000.0
+Palorinya (refugee settlement),Exercise Book (48 pages),Unit,22,503.6195454545454,333.33,1000.0
+Nakivale (refugee settlement),Firewood,KG,53,398.1333962264151,120.0,669.0
+Palabek (refugee settlement),Firewood,KG,54,390.80685185185183,137.0,2000.0
+Palorinya (refugee settlement),Firewood,KG,55,384.28981818181813,114.0,833.0
+Oruchinga (refugee settlement),Firewood,KG,54,384.1111111111111,136.0,556.0
+Kyangwali (refugee settlement),Firewood,KG,56,358.05178571428576,153.0,862.0
+Kiryandongo (refugee settlement),Firewood,KG,55,336.98563636363633,180.39,535.0
+Lobule (refugee settlement),Firewood,KG,40,335.38800000000003,104.0,769.0
+Adjumani (refugee settlement),Firewood,KG,54,302.35370370370373,132.0,696.0
+Kyaka II (refugee settlement),Firewood,KG,56,299.92749999999995,185.0,550.0
+Rwamwanja (refugee settlement),Firewood,KG,53,277.39,137.0,722.0
+Palabek (refugee settlement),Pencil,Unit,20,252.6,200.0,500.0
+Bidibidi (refugee settlement),Firewood,KG,56,234.11732142857142,113.0,385.0
+Nakivale (refugee settlement),Pencil,Unit,22,232.0,200.0,500.0
+Imvepi (refugee settlement),Pencil,Unit,22,231.4090909090909,100.0,500.0
+Imvepi (refugee settlement),Firewood,KG,55,229.654,104.17,667.0
+Oruchinga (refugee settlement),Pencil,Unit,19,228.07,200.0,400.0
+Kyaka II (refugee settlement),Pencil,Unit,24,210.45833333333334,100.0,500.0
+Rhino Camp (refugee settlement),Firewood,KG,55,207.77163636363636,89.0,462.0
+Palorinya (refugee settlement),Pencil,Unit,22,205.7409090909091,200.0,233.3
+Kyangwali (refugee settlement),Pencil,Unit,24,200.18041666666667,100.0,300.0
+Kiryandongo (refugee settlement),Pencil,Unit,18,200.0,100.0,250.0
+Rwamwanja (refugee settlement),Pencil,Unit,24,195.83333333333334,100.0,200.0
+Adjumani (refugee settlement),Pencil,Unit,23,192.4491304347826,100.0,300.0
+Lobule (refugee settlement),Pencil,Unit,20,190.0,100.0,300.0
+Bidibidi (refugee settlement),Pencil,Unit,21,182.14285714285714,100.0,200.0
+Rhino Camp (refugee settlement),Pencil,Unit,17,175.8235294117647,100.0,215.0

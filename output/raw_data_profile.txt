@@ -1,0 +1,103 @@
+Uganda Food Price Raw Dataset Profile
+=====================================
+
+Row count: 32115
+Column count: 16
+
+Columns:
+- date
+- admin1
+- admin2
+- market
+- market_id
+- latitude
+- longitude
+- category
+- commodity
+- commodity_id
+- unit
+- priceflag
+- pricetype
+- currency
+- price
+- usdprice
+
+Data types:
+- date: object
+- admin1: object
+- admin2: object
+- market: object
+- market_id: int64
+- latitude: float64
+- longitude: float64
+- category: object
+- commodity: object
+- commodity_id: int64
+- unit: object
+- priceflag: object
+- pricetype: object
+- currency: object
+- price: float64
+- usdprice: float64
+
+Missing values:
+- date: 0
+- admin1: 0
+- admin2: 0
+- market: 0
+- market_id: 0
+- latitude: 0
+- longitude: 0
+- category: 0
+- commodity: 0
+- commodity_id: 0
+- unit: 0
+- priceflag: 0
+- pricetype: 0
+- currency: 0
+- price: 0
+- usdprice: 0
+
+Duplicate rows: 0
+Invalid or non-positive prices: 0
+Date parsing failures: 0
+Earliest date: 2006-01-15
+Latest date: 2026-06-15
+
+Unique commodities: 38
+Unique markets: 43
+Unique units: 5
+
+Units observed:
+- KG: 23065
+- L: 3357
+- Packet: 669
+- Pair: 264
+- Unit: 4760
+
+Commodities with mixed units:
+- None observed
+
+Top commodities by record count:
+- Beans: 3222
+- Maize flour: 3015
+- Maize (white): 2840
+- Sorghum: 2825
+- Oil (vegetable): 2659
+- Cassava flour: 1916
+- Millet: 1762
+- Salt: 852
+- Leafy vegetables: 803
+- Millet flour: 786
+
+Top markets by record count:
+- Owino: 2098
+- Lira: 1762
+- Kyangwali (refugee settlement): 1383
+- Rwamwanja (refugee settlement): 1374
+- Kyaka II (refugee settlement): 1362
+- Palorinya (refugee settlement): 1323
+- Bidibidi (refugee settlement): 1322
+- Lobule (refugee settlement): 1306
+- Nakivale (refugee settlement): 1280
+- Kiryandongo (refugee settlement): 1267
