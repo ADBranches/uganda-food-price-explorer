@@ -6,7 +6,7 @@
 - Required range: 4 to 5 minutes
 - Presenter camera: visible throughout the demonstration
 - Repository: https://github.com/ADBranches/uganda-food-price-explorer
-- Current full recording: https://youtu.be/HNtln75HTEg
+- Current full recording: https://youtu.be/B_MTzY8-m3w
 
 ## Timed Demonstration Plan
 
