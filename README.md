@@ -61,7 +61,6 @@ Run the automated tests with:
 ```bash
 .venv/bin/python -m unittest tests/test_analysis.py -v
 ```
-
 # Useful Websites
 
 - [Uganda Food Prices Dataset](https://data.humdata.org/dataset/wfp-food-prices-for-uganda)
