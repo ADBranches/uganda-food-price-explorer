@@ -125,7 +125,7 @@ OK
 
 ## Reproducibility
 
-A fresh GitHub clone passed Phase 14 in an isolated virtual environment. Dependencies installed from `requirements.txt`, generated artifacts were removed, the raw checksum passed, all outputs regenerated, expected schemas and row counts matched, charts passed validation, Python files compiled, and all 36 tests passed without manual code corrections.
+A fresh clone of the public GitHub repository was verified in an isolated virtual environment. Dependencies installed from `requirements.txt`, generated artifacts were removed, the raw checksum passed, all outputs regenerated, expected schemas and row counts matched, charts passed validation, Python files compiled, and all 36 tests passed without manual code corrections.
 
 ## Resources
 

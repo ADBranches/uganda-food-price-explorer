@@ -84,7 +84,7 @@
 - Mention the one-command workflow, generated outputs, documentation, tests, and reproducibility evidence.
 - Conclude the demonstration while keeping the presenter camera visible.
 
-## Rubric Coverage Audit
+## Rubric Coverage
 
 - Introduction and purpose: 0:00-0:25
 - Both analysis questions: 0:00-0:25
@@ -101,7 +101,7 @@
 - README and GitHub conclusion: 4:25-4:50
 - Presenter camera visible: throughout
 
-## Rehearsal Gate
+## Pre-Recording Checklist
 
 - Planned duration: 4 minutes 50 seconds
 - Minimum allowed duration: 4 minutes

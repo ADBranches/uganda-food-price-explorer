@@ -26,10 +26,10 @@ Student: Edwin Kambale
 - [x] Public GitHub repository with a meaningful name
   - Evidence: public repository named uganda-food-price-explorer
   - Verification: incognito access and main tracking origin/main
-- [ ] Four-to-five-minute demonstration video
+- [x] Demonstration video includes presenter, running software, and detailed code walkthrough
   - Evidence: video URL in README.md and Module Submission document
   - Verification: presenter visible, software demonstration present, detailed code walkthrough present
-- [ ] Video link posted in the Data Analysis Microsoft Teams channel
+- [x] Video link posted in the Data Analysis Microsoft Teams channel
   - Evidence: completed Teams post
   - Verification: refreshed post and retained screenshot
 - [x] Learning Strategies discussion completed
@@ -128,7 +128,7 @@ Student: Edwin Kambale
 - 3:30-4:35: source-code and test walkthrough
 - 4:35-5:00: README, public GitHub, limitations, and conclusion
 
-## Phase 1 Completion Gate
+## Requirements Review
 
 - [x] Every common requirement has an evidence location
 - [x] Every Data Analysis requirement has an evidence location
