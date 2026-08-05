@@ -136,8 +136,8 @@ A fresh GitHub clone passed Phase 14 in an isolated virtual environment. Depende
 
 ## Demonstration Video
 
-https://youtu.be/B_MTzY8-m3w
+[Watch the Uganda Food Price Explorer demonstration](https://youtu.be/B_MTzY8-m3w)
 
 ## Repository
 
-https://github.com/ADBranches/uganda-food-price-explorer
+[View the Uganda Food Price Explorer repository](https://github.com/ADBranches/uganda-food-price-explorer)
