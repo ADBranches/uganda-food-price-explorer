@@ -17,3 +17,7 @@ venv/
 .mypy_cache/
 .ruff_cache/
 Thumbs.db
+
+.qodo/
+db.sqlite3
+staticfiles/

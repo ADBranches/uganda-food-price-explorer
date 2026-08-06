@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page_title|default:"Uganda Food Price Explorer" }}</title>
+    <link rel="stylesheet" href="{% static 'explorer/css/styles.css' %}">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <h1>Uganda Food Price Explorer</h1>
+        </div>
+    </header>
+    <main class="container">
+        <section class="status-card" aria-labelledby="foundation-heading">
+            <h2 id="foundation-heading">Web Application Foundation</h2>
+            <p>{{ status_message }}</p>
+        </section>
+    </main>
+</body>
+</html>
