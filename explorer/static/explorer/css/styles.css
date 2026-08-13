@@ -11,7 +11,14 @@
 }
 
 body {
+    min-height: 100vh;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: inherit;
 }
 
 .container {
@@ -20,18 +27,80 @@ body {
 }
 
 .site-header {
-    padding: 1.5rem 0;
     color: #ffffff;
     background: #1f5f3f;
 }
 
-.site-header h1 {
-    margin: 0;
-    font-size: clamp(1.7rem, 4vw, 2.4rem);
+.header-layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 1.25rem 0;
 }
 
-.status-card {
-    margin: 2rem 0;
+.site-title {
+    font-size: clamp(1.25rem, 3vw, 1.75rem);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.site-navigation ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.site-navigation a {
+    display: block;
+    padding: 0.55rem 0.8rem;
+    border-radius: 0.4rem;
+    text-decoration: none;
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus-visible,
+.site-navigation a[aria-current="page"] {
+    background: rgb(255 255 255 / 18%);
+}
+
+.main-content {
+    flex: 1;
+    padding: 2rem 0 3rem;
+}
+
+.hero,
+.page-heading {
+    margin-bottom: 1.5rem;
+}
+
+.hero {
+    padding: clamp(1.5rem, 5vw, 3rem);
+    border-radius: 0.9rem;
+    color: #ffffff;
+    background: linear-gradient(135deg, #174b32, #2d7a52);
+}
+
+.hero h1,
+.page-heading h1 {
+    margin: 0.2rem 0 0.75rem;
+    font-size: clamp(2rem, 6vw, 3.4rem);
+    line-height: 1.15;
+}
+
+.eyebrow {
+    margin: 0;
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.content-card {
+    margin: 1.5rem 0;
     padding: 1.5rem;
     border: 1px solid #d8e1e8;
     border-radius: 0.75rem;
@@ -39,7 +108,61 @@ body {
     box-shadow: 0 0.4rem 1.2rem rgb(31 41 51 / 8%);
 }
 
-.status-card h2 {
+.content-card h2 {
     margin-top: 0;
     color: #174b32;
+}
+
+.feature-list {
+    padding-left: 1.25rem;
+}
+
+.primary-action,
+.secondary-action {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.7rem 1rem;
+    border-radius: 0.45rem;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.primary-action {
+    color: #174b32;
+    background: #ffffff;
+}
+
+.secondary-action {
+    color: #ffffff;
+    background: #1f5f3f;
+}
+
+.site-footer {
+    padding: 1.25rem 0;
+    color: #dce9e2;
+    background: #123624;
+}
+
+.site-footer p {
+    margin: 0;
+}
+
+@media (max-width: 43rem) {
+    .header-layout {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .site-navigation {
+        width: 100%;
+    }
+
+    .site-navigation ul {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .site-navigation a {
+        text-align: center;
+    }
 }

@@ -9,15 +9,24 @@
 </head>
 <body>
     <header class="site-header">
-        <div class="container">
-            <h1>Uganda Food Price Explorer</h1>
+        <div class="container header-layout">
+            <a class="site-title" href="{% url 'explorer:home' %}">Uganda Food Price Explorer</a>
+            <nav class="site-navigation" aria-label="Main navigation">
+                <ul>
+                    <li><a href="{% url 'explorer:home' %}"{% if active_page == "home" %} aria-current="page"{% endif %}>Home</a></li>
+                    <li><a href="{% url 'explorer:explorer' %}"{% if active_page == "explorer" %} aria-current="page"{% endif %}>Explorer</a></li>
+                    <li><a href="{% url 'explorer:results' %}"{% if active_page == "results" %} aria-current="page"{% endif %}>Results</a></li>
+                </ul>
+            </nav>
         </div>
     </header>
-    <main class="container">
-        <section class="status-card" aria-labelledby="foundation-heading">
-            <h2 id="foundation-heading">Web Application Foundation</h2>
-            <p>{{ status_message }}</p>
-        </section>
+    <main class="container main-content" id="main-content">
+        {% block content %}{% endblock %}
     </main>
+    <footer class="site-footer">
+        <div class="container">
+            <p>Uganda Food Price Explorer | Python, Django, Pandas, and Matplotlib</p>
+        </div>
+    </footer>
 </body>
 </html>

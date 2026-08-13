@@ -1,0 +1,14 @@
+{% extends "explorer/base.html" %}
+
+{% block content %}
+<section class="page-heading" aria-labelledby="results-heading">
+    <p class="eyebrow">Analysis output</p>
+    <h1 id="results-heading">Results</h1>
+    <p>Analysis results will appear here after filters are submitted.</p>
+</section>
+<section class="content-card">
+    <h2>No filters submitted</h2>
+    <p>Choose a commodity, market, unit, or date range on the Explorer page.</p>
+    <a class="secondary-action" href="{% url 'explorer:explorer' %}">Choose filters</a>
+</section>
+{% endblock %}
