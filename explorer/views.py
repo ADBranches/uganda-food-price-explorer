@@ -7,6 +7,7 @@ from django.conf import settings
 from django.shortcuts import render
 
 from data_loader import load_food_price_csv
+from explorer.forms import PriceFilterForm
 
 CLEANED_DATA_PATH = settings.BASE_DIR / "data" / "cleaned" / "uganda_food_prices_cleaned.csv"
 
@@ -44,19 +45,62 @@ def home(request):
     return render(request, "explorer/home.html", context)
 
 
+def build_filter_form(data=None):
+    """Create the filter form with choices loaded from the cleaned dataset."""
+    return PriceFilterForm(data=data, dataset_path=CLEANED_DATA_PATH)
+
+
 def explorer(request):
-    """Render the page reserved for interactive dataset filters."""
+    """Render the interactive dataset filter form."""
     context = {
         "page_title": "Explorer | Uganda Food Price Explorer",
         "active_page": "explorer",
+        "form": None,
+        "dataset_error": None,
     }
+    try:
+        context["form"] = build_filter_form()
+    except (FileNotFoundError, OSError, ValueError, pd.errors.ParserError) as error:
+        context["dataset_error"] = f"Filters are unavailable: {error}"
     return render(request, "explorer/explorer.html", context)
 
 
 def results(request):
-    """Render the page reserved for dynamically generated results."""
+    """Validate submitted filters before generating analysis results."""
     context = {
         "page_title": "Results | Uganda Food Price Explorer",
         "active_page": "results",
+        "validated_filters": None,
     }
+    try:
+        form = build_filter_form(request.GET or None)
+    except (FileNotFoundError, OSError, ValueError, pd.errors.ParserError) as error:
+        return render(
+            request,
+            "explorer/explorer.html",
+            {
+                "page_title": "Explorer | Uganda Food Price Explorer",
+                "active_page": "explorer",
+                "form": None,
+                "dataset_error": f"Filters are unavailable: {error}",
+            },
+        )
+
+    if request.GET and form.is_valid():
+        context["validated_filters"] = form.cleaned_data
+        return render(request, "explorer/results.html", context)
+
+    if request.GET:
+        return render(
+            request,
+            "explorer/explorer.html",
+            {
+                "page_title": "Explorer | Uganda Food Price Explorer",
+                "active_page": "explorer",
+                "form": form,
+                "dataset_error": None,
+            },
+            status=400,
+        )
+
     return render(request, "explorer/results.html", context)

@@ -4,16 +4,30 @@
 <section class="page-heading" aria-labelledby="explorer-heading">
     <p class="eyebrow">Price filters</p>
     <h1 id="explorer-heading">Explore the dataset</h1>
-    <p>The filter form will be added in the next implementation phase.</p>
+    <p>Select any combination of filters. Leaving a choice blank includes all available values.</p>
 </section>
-<section class="content-card">
-    <h2>Planned filters</h2>
-    <ul class="feature-list">
-        <li>Commodity</li>
-        <li>Market</li>
-        <li>Measurement unit</li>
-        <li>Start and end dates</li>
-        <li>Price-spike threshold</li>
-    </ul>
+
+<section class="content-card" aria-labelledby="filter-heading">
+    <h2 id="filter-heading">Choose analysis filters</h2>
+    {% if dataset_error %}
+    <p class="error-message" role="alert">{{ dataset_error }}</p>
+    {% else %}
+    <form class="filter-form" method="get" action="{% url 'explorer:results' %}">
+        {% if form.non_field_errors %}
+        <div class="form-errors" role="alert">{{ form.non_field_errors }}</div>
+        {% endif %}
+        <div class="form-grid">
+            {% for field in form %}
+            <div class="form-field{% if field.errors %} form-field-error{% endif %}">
+                {{ field.label_tag }}
+                {{ field }}
+                {% if field.help_text %}<p class="help-text">{{ field.help_text }}</p>{% endif %}
+                {% for error in field.errors %}<p class="field-error" role="alert">{{ error }}</p>{% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+        <button class="secondary-action" type="submit">View results</button>
+    </form>
+    {% endif %}
 </section>
 {% endblock %}
