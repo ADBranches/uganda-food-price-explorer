@@ -4,11 +4,22 @@
 <section class="hero" aria-labelledby="home-heading">
     <p class="eyebrow">Uganda market data</p>
     <h1 id="home-heading">Explore historical food prices</h1>
-    <p>Review food-price observations, compare markets and commodities, and investigate monthly price changes.</p>
+    <p>Use verified food-price records to compare commodities, markets, measurement units, and changes over time.</p>
     <a class="primary-action" href="{% url 'explorer:explorer' %}">Open the explorer</a>
 </section>
-<section class="content-card" aria-labelledby="foundation-heading">
-    <h2 id="foundation-heading">Web application status</h2>
-    <p>{{ status_message }}</p>
+
+<section class="content-card" aria-labelledby="overview-heading">
+    <h2 id="overview-heading">Dataset overview</h2>
+    {% if dataset_overview %}
+    <dl class="overview-grid">
+        <div><dt>Records</dt><dd>{{ dataset_overview.record_count }}</dd></div>
+        <div><dt>Commodities</dt><dd>{{ dataset_overview.commodity_count }}</dd></div>
+        <div><dt>Markets</dt><dd>{{ dataset_overview.market_count }}</dd></div>
+        <div><dt>Units</dt><dd>{{ dataset_overview.unit_count }}</dd></div>
+        <div class="date-range"><dt>Date range</dt><dd>{{ dataset_overview.start_date|date:"F j, Y" }} to {{ dataset_overview.end_date|date:"F j, Y" }}</dd></div>
+    </dl>
+    {% else %}
+    <p class="error-message" role="alert">{{ dataset_error }}</p>
+    {% endif %}
 </section>
 {% endblock %}

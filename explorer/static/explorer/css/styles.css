@@ -166,3 +166,47 @@ a {
         text-align: center;
     }
 }
+
+.overview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    gap: 1rem;
+    margin: 0;
+}
+
+.overview-grid div {
+    padding: 1rem;
+    border-radius: 0.6rem;
+    background: #eef6f1;
+}
+
+.overview-grid dt {
+    color: #52606d;
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.overview-grid dd {
+    margin: 0.35rem 0 0;
+    color: #174b32;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.overview-grid .date-range {
+    grid-column: span 2;
+}
+
+.error-message {
+    padding: 1rem;
+    border-left: 0.3rem solid #b42318;
+    color: #7a271a;
+    background: #fef3f2;
+}
+
+@media (max-width: 32rem) {
+    .overview-grid .date-range {
+        grid-column: span 1;
+    }
+}
